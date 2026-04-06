@@ -113,3 +113,6 @@ This lab demonstrates how attackers exploit misconfigured servers and use phishi
 ## 🚀 Author
 Oluwatoyin Oyedijo  
 Aspiring SOC Analyst | Cybersecurity Enthusiast
+### 🔍 Exposed Directory Enumeration (/data)
+
+![Directory Enumeration](./Index%20of%20data.png)
